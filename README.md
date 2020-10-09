@@ -14,19 +14,6 @@ Interview Scheduler is a Full Stack Web Application built in ReactJS with Storyb
 
 !["Screenshot of InitialPage.png"] (https://github.com/Ramya-Geethika/scheduler/blob/master/docs/InitialPage.png?raw=true)
 
-## Dependencies
-
-axios
-classnames
-normalize.css
-react"
-babel
-storybook
-cypress
-testing-library
-prop-types
-react-test-renderer
-
 
 ## Setup
 
