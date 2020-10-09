@@ -11,8 +11,9 @@
     "react-scripts": "3.0.0",
     "styled-components": "^5.2.0"
   },
-  "proxy": "http://localhost:8080",
+  "proxy": "http://localhost:8001",
   "scripts": {
+    "cypress": "cypress open -P .",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

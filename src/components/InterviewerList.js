@@ -24,14 +24,10 @@ function InterviewerList(props) {
   );
 });
   return (
-    <li className={interviewerClass} onClick={props.setInterviewer}>
-      <img
-        className="interviewers__item-image"
-        src={props.avatar}
-        alt={props.name}
-      />
-      {props.selected && props.name}
-    </li>
+    <section className="interviewers">
+  <h4 className="interviewers__header text--light">Interviewer</h4>
+  <ul className="interviewers__list">{interviewers}</ul>
+</section>
   );
 }
 
