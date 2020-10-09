@@ -4,13 +4,12 @@ Interview Scheduler is a Full Stack Web Application built in ReactJS with Storyb
 
 # Application Snapshots
 
-!["Screenshot of Booked_Interview"] (https://github.com/Ramya-Geethika/scheduler/blob/master/docs/Booked_Interview.png?raw=true)
+# Application Snapshots
+!["Initial Page"](https://github.com/Ramya-Geethika/scheduler/blob/master/docs/InitialPage.png?raw=true)
+!["Interview Booked and spots updated"](https://github.com/Ramya-Geethika/scheduler/blob/master/docs/Booked_Interview.png?raw=true)
+!["Editing the student name or interviewer"](https://github.com/Ramya-Geethika/scheduler/blob/master/docs/EditPage.png?raw=true)
+!["Deleting the slot and updating spots accordingly"](https://github.com/Ramya-Geethika/scheduler/blob/master/docs/CancelPage.png?raw=true)
 
-!["Screenshot of CancelPage"] (https://github.com/Ramya-Geethika/scheduler/blob/master/docs/CancelPage.png?raw=true)
-
-!["Screenshot of EditPage"] (https://github.com/Ramya-Geethika/scheduler/blob/master/docs/EditPage.png?raw=true)
-
-!["Screenshot of InitialPage"] (https://github.com/Ramya-Geethika/scheduler/blob/master/docs/InitialPage.png?raw=true)
 
 
 ## Setup
